@@ -1,6 +1,4 @@
-# =========================================================================
 # Dataset Description
-# =========================================================================
 
 Each dataset file (blackFridayRetweets, worldSeriesRetweets and streamingSampleRetweets) is a tsv (tab-separated-values) representing the directed graph of the same collection.
 
@@ -27,23 +25,16 @@ The third one is composed by the Italian tweets of the whole Twitter stream, fil
 
 Statistics on the collections:
 
-# =========================================================================
-# Nodes	Edges	#tweets	Start Time	End Time
-# =========================================================================
+## Nodes	Edges	\#tweets	Start Time	End Time
 World Series
 474,258	840,490	1,932,330	10-30-2015 2:07:07PM	11-27-2015 11:06:06AM
-# =========================================================================
-Black Friday	
+## Black Friday	
 2,700,815	3,811,922	9,891,400	11-13-2015 2:38:16PM	12-18-2015
 1:32:17PM
-# =========================================================================
-Streaming 
+## Streaming 
 2,541,739	13,708,317	74,749,330	10-26-2015 11:27:12AM	12-12-2015 05:50:45AM
-# =========================================================================
 
 
 
-# =========================================================================
-# License
-# =========================================================================
+## License
 Data are distributed under the terms of the Creative Commons Attribution 4.0 which you can find provided in the file COPYING.
