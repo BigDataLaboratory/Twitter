@@ -25,8 +25,8 @@ The third one is composed by the Italian tweets of the whole Twitter stream, fil
 
 Statistics on the collections:
 
-## Nodes	Edges	\#tweets	Start Time	End Time
-World Series
+# Nodes	Edges	\#tweets	Start Time	End Time
+## World Series
 474,258	840,490	1,932,330	10-30-2015 2:07:07PM	11-27-2015 11:06:06AM
 ## Black Friday	
 2,700,815	3,811,922	9,891,400	11-13-2015 2:38:16PM	12-18-2015
