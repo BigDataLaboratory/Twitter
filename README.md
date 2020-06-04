@@ -36,5 +36,5 @@ Statistics on the collections:
 
 
 
-## License
+# License
 Data are distributed under the terms of the Creative Commons Attribution 4.0 which you can find provided in the file COPYING.
